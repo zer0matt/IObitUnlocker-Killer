@@ -1,6 +1,8 @@
 # IObitUnlocker-Killer
 IObitUnlocker ships a .sys driver that allows you to kill any process (except for a little whitelist hardcoded into the driver itself) with Kernel-level privileges.
 
+Link to my article: https://zer0matt.blogspot.com/2026/11/how-to-kill-almost-any-process-and-get.html
+
 This is NOT a security vulnerability since no boundary has been crossed (it goes straight from admin to kernel).
 
 Driver: IObitUnlocker.sys (SHA256: c6e50ac7b540e20979b9928867bacf738fab41e0543b0587cd8c0fe90273a577)
