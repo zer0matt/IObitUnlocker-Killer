@@ -5,7 +5,7 @@ This is NOT a security vulnerability since no boundary has been crossed (it goes
 
 Driver: IObitUnlocker.sys (SHA256: c6e50ac7b540e20979b9928867bacf738fab41e0543b0587cd8c0fe90273a577)
 
-<video src="demo.mp4" controls loop autoplay muted width="600"></video>
+![PoC Demo](demo.gif)
 
 ### Build
 ```
