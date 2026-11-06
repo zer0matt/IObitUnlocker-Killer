@@ -5,11 +5,13 @@ This is NOT a security vulnerability since no boundary has been crossed (it goes
 
 Driver: IObitUnlocker.sys (SHA256: c6e50ac7b540e20979b9928867bacf738fab41e0543b0587cd8c0fe90273a577)
 
-### How to Build
+<video src="demo.mp4" controls loop autoplay muted width="600"></video>
+
+### Build
 ```
 cl.exe poc_iobitunlocker.c /Fe:poc_iobitunlocker.exe
 ```
-### How to Run
+### Run
 Just give this once:
 ```
 python3 patch_checksum.py poc_iobitunlocker.exe
